@@ -1,4 +1,4 @@
-from urllib import parse
+from six.moves.urllib import parse
 import posixpath
 import logging
 
